@@ -11,7 +11,7 @@ export default function Aside({ showAside, setShowAside }) {
       {/* <h2 className='text-xl font-bold mb-4'>Sidebar</h2> */}
       <ul className='flex flex-col gap-2'>
         <Link to='/admin'>Dashboard</Link>
-        <Link to='addproduct'>Add Product</Link>
+
         <Link to='products'>Products</Link>
         <Link to='categories'>Category</Link>
         <Link to='orders'>Orders</Link>

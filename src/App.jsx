@@ -35,7 +35,7 @@ function App() {
 
 <Route index element={<Dashboard/>}/>
 
-<Route path='addproduct' element={<AddProduct/>}/>
+
 <Route path='products' element={<ManageProducts/>}/>
 <Route path='orders' element={<Order/>}/>
 <Route path='users' element={<User/>}/>

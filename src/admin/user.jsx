@@ -69,9 +69,7 @@ export default function User() {
                       <button  className="border-1 px-2 hover:bg-red-600 hover:text-white rounded hover:py-1">
                         Block
                       </button>
-                      <button className="border-1 px-2 hover:bg-green-600 hover:text-white rounded hover:py-1">
-Unblock
-                      </button>
+
                     </td>
                   </tr>
                   
